@@ -1,6 +1,6 @@
 # Visualização de dados com Python
 
-import matplotlib.pyplot as pl
+import matplotlib.pyplot as plt
 
 x = [1, 2]
 y = [2, 3]
