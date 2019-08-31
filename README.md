@@ -10,6 +10,6 @@ pip install -r requirements.txt
 
 **2) Consulte arquivo exemplos no diretório Aula__3 de como contruir seu primeiro gráfico com Matplotlib**  
 
-**3) Consulte arquivo exemplos no diretório Aula__3 de como adicionar título e labels no seu gráfico com Matplotlib**  
+**3) Consulte arquivo exemplos no diretório Aula__4 de como adicionar título e labels no seu gráfico com Matplotlib**  
 
 
